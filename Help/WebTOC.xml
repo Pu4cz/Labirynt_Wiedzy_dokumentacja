@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="f92166d9-3789-4957-aa3a-03036a2d95ee" Title="LabiryntWiedzy" Url="html/e97df49b-9229-c6d8-2c1c-35cad56f1871.htm">
+    <HelpTOCNode Id="1f4b70e0-0095-4e95-96c4-ea77eb7601c8" Title="ciekawostka1 Class" Url="html/ce3ae979-4047-18c8-0d43-e216f7f03064.htm">
+      <HelpTOCNode Title="ciekawostka1 Constructor " Url="html/0b1c5aa9-666f-e2ea-02b4-83e7c91d05b4.htm" />
+      <HelpTOCNode Id="28d5d181-2d4b-4df8-8dc1-b26808be8090" Title="ciekawostka1 Methods" Url="html/b5faea3a-016d-0bc1-52b3-0194246f8cee.htm">
+        <HelpTOCNode Title="Back1 Method " Url="html/ee4f8d19-ce2e-acba-c33a-597e9ba04314.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/eba8a25b-cb3c-f1a4-66bc-3c7b39ab5315.htm" />
+        <HelpTOCNode Title="Next1 Method " Url="html/92f80601-6f57-69c4-0a0b-022bb2e28497.htm" />
+        <HelpTOCNode Title="WyswietlanieCiekawostki Method " Url="html/343954ca-3d85-f1b5-26dc-55105c7693a3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="04a91de1-f05f-4867-a206-bfed9194af23" Title="ciekawostka1 Properties" Url="html/0ce77aeb-86fd-bcd8-8d44-9221d78f47fd.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/a4d4761f-1bbb-0f6e-6f02-a6269758d156.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0f91172b-f686-48b6-a029-2a3978563160" Title="ciekawostka2 Class" Url="html/57c75b51-1689-15b8-cda9-cbe863b14e25.htm">
+      <HelpTOCNode Title="ciekawostka2 Constructor " Url="html/2d9db519-20e2-dd3b-1eca-59394e2a7419.htm" />
+      <HelpTOCNode Id="1677d1d6-9de0-43be-bf58-abb0a9218990" Title="ciekawostka2 Methods" Url="html/9d654a49-6ecf-6984-9a53-407687ada51f.htm">
+        <HelpTOCNode Title="Back2 Method " Url="html/d4500167-998c-de5b-6c58-4d0a35c35fce.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/96ff7761-3cd7-2878-6f43-0178dd15277c.htm" />
+        <HelpTOCNode Title="Next2 Method " Url="html/e2e491b5-37fe-482e-94be-5d7520283f4a.htm" />
+        <HelpTOCNode Title="WyswietlanieCiekawostki Method " Url="html/560064fb-125a-b7c9-893f-480a03888f98.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="82b9d02c-9416-4999-b9b5-d2670579d401" Title="ciekawostka2 Properties" Url="html/1c323cfa-a845-4970-6b46-942699638b35.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/3a557b4c-9c40-56c8-db86-fd6681ac80f7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="632f2384-750c-47c2-8149-8a35c8b63431" Title="ciekawostka3 Class" Url="html/cc4ad1dc-8784-12a6-4ad9-114fd24348fb.htm">
+      <HelpTOCNode Title="ciekawostka3 Constructor " Url="html/4e5df7da-b4e2-9944-6bea-ebb2c663f98a.htm" />
+      <HelpTOCNode Id="e23977ca-6fb8-48c8-8679-ea835258697e" Title="ciekawostka3 Methods" Url="html/95fadc98-0bd1-ee59-133a-c9c0a35b526e.htm">
+        <HelpTOCNode Title="Back3 Method " Url="html/d94a0a55-002b-1798-6a12-7c994bfd2497.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/546f8ca7-f080-2b5a-9d58-d4e9292abdbc.htm" />
+        <HelpTOCNode Title="Next3 Method " Url="html/ce6c1fa3-da56-bd56-5b4f-ca71c327a5f6.htm" />
+        <HelpTOCNode Title="WyswietlanieCiekawostki Method " Url="html/ecf9464e-13eb-9809-5286-b2f7768dfecc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2f17d18e-5027-40fc-ac1e-bb62eebb7265" Title="ciekawostka3 Properties" Url="html/9dc36e1d-48fa-654e-ffbe-e440aa4c551c.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/55dc172a-8240-010e-4768-d54ab587b540.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="28ed7558-c5e6-4046-b67e-0eaef1e8894f" Title="ciekawostka4 Class" Url="html/890948bb-ee25-f611-75a0-514a1a3fcf04.htm">
+      <HelpTOCNode Title="ciekawostka4 Constructor " Url="html/efdd9a4d-0d0f-9f1e-81dd-35e69ef6fa1c.htm" />
+      <HelpTOCNode Id="bfebfdb6-ac2f-4f5a-83bb-5781e26ddfc9" Title="ciekawostka4 Methods" Url="html/b982f382-37a1-d84c-c178-ca1f8d0147d5.htm">
+        <HelpTOCNode Title="Back4 Method " Url="html/3cc1b5ef-938a-8949-ccea-ea1b7087cbf8.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/17a834a4-ca85-1ca1-b936-7937beee20a8.htm" />
+        <HelpTOCNode Title="Next4 Method " Url="html/cad6744d-1a53-ff13-a6fc-eea20b238dd9.htm" />
+        <HelpTOCNode Title="WyswietlanieCiekawostki Method " Url="html/418c60f4-a0c5-3606-5dee-f2fdfd1c5220.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="757b57a8-a0db-4ae9-8980-8285e81d2f54" Title="ciekawostka4 Properties" Url="html/4f50f3bb-82c5-88a5-4c6b-b53a36a86129.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/d3d503af-060b-3be8-0dc4-dab79f5bd8a9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c8c4d2a0-dd9b-45ab-bb53-d26855b44b51" Title="ciekawostka5 Class" Url="html/e2b358f8-82eb-a978-e34e-8b2cfab9fab2.htm">
+      <HelpTOCNode Title="ciekawostka5 Constructor " Url="html/62b35dab-73e9-6507-608a-865ed2d669ce.htm" />
+      <HelpTOCNode Id="85ad88a1-dcf0-4c21-9964-77d10aa95155" Title="ciekawostka5 Methods" Url="html/c9af486d-c057-27e4-955c-360e427c7e26.htm">
+        <HelpTOCNode Title="Back5 Method " Url="html/d0dc7034-e69a-b01e-1c83-202b651aa2d1.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/65e14da4-5e0c-9821-e863-d642120ea168.htm" />
+        <HelpTOCNode Title="Suma Method " Url="html/c507bb21-8e1c-cc11-ef6a-8edccb74fb98.htm" />
+        <HelpTOCNode Title="WyswietlanieCiekawostki Method " Url="html/613d54be-a45e-0181-6699-419040a2af7a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="53694e52-9275-409b-97e7-0f0cd3b03ed7" Title="ciekawostka5 Properties" Url="html/3fe3c663-9498-87d0-e1c6-2710a4b80909.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/9849e356-7b51-4a90-ebae-0d16d20f7848.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7c1a19f0-6f0b-4686-a8df-7f45726c0efb" Title="Instrukcja Class" Url="html/b8c2caaf-e172-2e29-98c6-f5d808b08273.htm">
+      <HelpTOCNode Title="Instrukcja Constructor " Url="html/c8348e28-9e2e-cc6e-f575-96eb86de058b.htm" />
+      <HelpTOCNode Id="244b3eaf-6de0-4e19-8f99-360a79f09c2e" Title="Instrukcja Methods" Url="html/77abe4b4-1d90-fdd9-1e49-363afdd84fdc.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/526bc033-accf-a1e7-2067-03c3a8d04d8c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f80de07-7579-41c2-a16f-acf8844b9b05" Title="Instrukcja Properties" Url="html/98888e35-4d65-6c14-6874-81dcbdd01ec7.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/373e9b1c-5eb1-4756-cf98-7a33a85d4e5c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6ba0df5c-31ef-4636-b144-69aa9af66362" Title="Lab1 Class" Url="html/3c34632e-e492-aa50-a44b-2d6200c8e54b.htm">
+      <HelpTOCNode Title="Lab1 Constructor " Url="html/748d36a4-9c0d-f4b4-30ba-3f5d7dc11398.htm" />
+      <HelpTOCNode Id="d012884a-9b4c-4091-be31-20af19038171" Title="Lab1 Fields" Url="html/941ef3c6-121c-62f1-8aef-347067c73035.htm">
+        <HelpTOCNode Title="Ksiazki1 Field" Url="html/cfe49f9a-209e-2db4-d7f1-cbceaea09029.htm" />
+        <HelpTOCNode Title="WynikPoz1 Field" Url="html/b311293d-d82f-0e4e-c052-ef359535989e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9c3bc7b8-1775-42b7-bc83-d6462424b79a" Title="Lab1 Methods" Url="html/e53afbcc-6a2d-6f4d-afa0-a8740aa9160d.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/da605690-53a1-fa70-4873-d3fe095e70c4.htm" />
+        <HelpTOCNode Id="42be8b75-c662-4469-bb68-51df81e23e1e" Title="PowrotDoStartu Method " Url="html/be6e5a7c-798b-31eb-4734-e2994bf92724.htm">
+          <HelpTOCNode Title="PowrotDoStartu Method " Url="html/a041114a-13ec-80dd-ec4d-d6c404827f3f.htm" />
+          <HelpTOCNode Title="PowrotDoStartu Method (Object, EventArgs)" Url="html/59222273-e9e0-10a5-f0be-1415ed428eb9.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PrzejscieDoStartu Method " Url="html/af79d9c9-91df-ceb4-3aaa-635700156069.htm" />
+        <HelpTOCNode Title="ZbierzKsiazki Method " Url="html/fefe6657-1f22-ac39-550e-dfcb2550d322.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="abbc4762-7b68-4cc6-918b-270dd3cc5a4d" Title="Lab1 Properties" Url="html/b4aa22a8-f9a6-9978-0e93-3e49d975676e.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/1b3bb302-a66d-8329-291d-dbc87b09a418.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e8a12561-6639-47e4-adb7-a9a41ef0473f" Title="Lab2 Class" Url="html/131f39db-f9fd-a30b-ee8c-cef9d2a189f1.htm">
+      <HelpTOCNode Title="Lab2 Constructor " Url="html/aac9b587-db17-67bc-a726-b3458b277c1b.htm" />
+      <HelpTOCNode Id="ae70d96f-d59f-415f-9a78-a4812c183ab8" Title="Lab2 Fields" Url="html/d06d53f1-232a-0d5d-21c2-954dc9548926.htm">
+        <HelpTOCNode Title="Ksiazki2 Field" Url="html/435138c5-fb39-a7e0-a7c6-1bba1cf9bb5b.htm" />
+        <HelpTOCNode Title="WynikPoz2 Field" Url="html/c84cc0c7-d790-4695-2c82-55231d55beb1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1166484b-a7ab-45ba-a61e-f0f48f2cc4ef" Title="Lab2 Methods" Url="html/22460695-896e-ad59-6b7d-65a4052dcccf.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/01a3eaac-e668-e30f-ffd7-c863bb7f8a85.htm" />
+        <HelpTOCNode Id="6d65f21b-7258-4229-8e5c-991f2f784e78" Title="PowrotDoStartu Method " Url="html/106fe577-dd4e-6b16-a1ab-106303609170.htm">
+          <HelpTOCNode Title="PowrotDoStartu Method " Url="html/871d29ae-e9ca-fb0b-0191-10b2c2803612.htm" />
+          <HelpTOCNode Title="PowrotDoStartu Method (Object, EventArgs)" Url="html/88f01107-404c-9700-9cd8-3a6f8eba59f0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PrzejscieDoStartu Method " Url="html/e80cf9d9-7be5-b4e5-800e-8cb7f54145d4.htm" />
+        <HelpTOCNode Title="ZbierzKsiazki Method " Url="html/4244cb7e-3b3a-f5b0-e850-13fb153eb5ab.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="563a5d8a-a056-4324-9a65-81a96f476692" Title="Lab2 Properties" Url="html/e106a3a3-b288-5e22-4b82-1b858ec047bb.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/c15a85f0-8a82-d532-0712-e4e2f1204e02.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c826a0d3-5e2e-4ec3-9bdb-588bcbf17ca6" Title="Lab3 Class" Url="html/23f58b00-7cb4-aa1c-6660-d6c461583b75.htm">
+      <HelpTOCNode Title="Lab3 Constructor " Url="html/798f7e5a-4e82-ad0a-51aa-c256c169131e.htm" />
+      <HelpTOCNode Id="0a6390bc-196d-4b43-ae74-23299e02f818" Title="Lab3 Fields" Url="html/a05225d8-960b-c276-c329-fe9c5a2b040f.htm">
+        <HelpTOCNode Title="Ksiazki3 Field" Url="html/e4f9193b-f94f-6285-db19-2e2ac404a1a4.htm" />
+        <HelpTOCNode Title="WynikPoz3 Field" Url="html/ea09e786-c5db-d569-4f93-744df4693ebb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ae7e09f4-6c2d-445f-be99-6f2d4f94cda3" Title="Lab3 Methods" Url="html/8493b0db-9f41-20bb-fc85-cca23f418e22.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/732a7145-1eb5-a300-66e6-35b63ed03164.htm" />
+        <HelpTOCNode Id="bded3abe-5dd1-4da8-99d4-1b0570452209" Title="PowrotDoStartu Method " Url="html/bfd7c5e1-10ac-8ff7-7f80-3eac73c9dc3d.htm">
+          <HelpTOCNode Title="PowrotDoStartu Method " Url="html/8cd82d57-3791-339e-63a0-39085c980d0b.htm" />
+          <HelpTOCNode Title="PowrotDoStartu Method (Object, EventArgs)" Url="html/ff686b97-a652-cfcd-550c-23b7fcc9acf5.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PrzejscieDoStartu Method " Url="html/65a80b04-ab30-8488-cba6-d77f9ef83ccc.htm" />
+        <HelpTOCNode Title="ZbierzKsiazki Method " Url="html/a5ac110e-a1cf-7820-a84d-b5f558ac810b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8a16d2a3-0aa8-42cb-af4a-f43dcce26dd6" Title="Lab3 Properties" Url="html/b01523b3-31cb-d82b-7f20-8000e5b6e3e7.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/eb1005e1-1fdf-df53-2b72-3602a39d5889.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4268cb06-5277-4fa1-b41d-b80699d03548" Title="Lab4 Class" Url="html/73871d0f-cf33-dc15-e25c-cdc965bc2a5f.htm">
+      <HelpTOCNode Title="Lab4 Constructor " Url="html/3a3ccda1-9eeb-daae-0f31-8b51a4caf2e0.htm" />
+      <HelpTOCNode Id="75bbd38c-ce5f-4c7d-8909-fefaeb57e6bc" Title="Lab4 Fields" Url="html/2d5b10b6-0f22-a272-2853-8636569656e6.htm">
+        <HelpTOCNode Title="Ksiazki4 Field" Url="html/11b7c25c-342c-4029-d67e-08fc663aac9b.htm" />
+        <HelpTOCNode Title="WynikPoz4 Field" Url="html/3feb898f-c3b2-8062-147a-92489ba7491e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a36f71bf-57c2-4e47-923a-1a91fad555fc" Title="Lab4 Methods" Url="html/204037d4-1d5b-94c1-d38f-5722e4535b0f.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/e8345332-5559-6652-bfa1-bdfd9611f84b.htm" />
+        <HelpTOCNode Id="d18968fc-1db0-4394-9815-00e86c9cd824" Title="PowrotDoStartu Method " Url="html/45db695b-3c86-4b9d-8ec1-08d30b6af6ff.htm">
+          <HelpTOCNode Title="PowrotDoStartu Method " Url="html/f7711dc5-15b2-2270-e618-76b12267af08.htm" />
+          <HelpTOCNode Title="PowrotDoStartu Method (Object, EventArgs)" Url="html/10ca4ae9-98c4-9724-ba30-8bc898a1c7ad.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PrzejscieDoStartu Method " Url="html/8a1c6440-68fc-d5bc-9715-e85f4afad8e8.htm" />
+        <HelpTOCNode Title="ZbierzKsiazki Method " Url="html/25bf6852-92db-beb1-0998-e63ca0de0221.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0f4427b5-8e01-4169-b873-2ea2c4c85e9f" Title="Lab4 Properties" Url="html/96275b87-82e4-056e-7b00-8b162505a459.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/e5a6e035-31f0-bc7f-637b-68cf39f0591d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a159d809-9873-4783-8b8f-9d373fb98fd4" Title="Lab5 Class" Url="html/214c3378-1cbc-5cb6-8f98-d9a5d466c754.htm">
+      <HelpTOCNode Title="Lab5 Constructor " Url="html/2981b566-f73f-d6c2-95a0-8d6c9d672f28.htm" />
+      <HelpTOCNode Id="0960e629-142c-44f7-9aaf-0ea8f836a570" Title="Lab5 Fields" Url="html/d4b6c77e-0d22-ced8-380d-ac31acb43add.htm">
+        <HelpTOCNode Title="Ksiazki5 Field" Url="html/74093bac-1490-888c-8bc9-0f15648b159c.htm" />
+        <HelpTOCNode Title="WynikPoz5 Field" Url="html/a5b74a41-907b-30b2-9fab-6adf0b9fe480.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="075fcd1e-1f19-4250-8890-ca932d751a19" Title="Lab5 Methods" Url="html/877af553-e31d-bc9c-ff2d-6e1db06562a5.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/9d2eee0b-5d82-88fe-4185-6261a98460ae.htm" />
+        <HelpTOCNode Id="a2a31c72-302f-4df8-817d-22c3381d82af" Title="PowrotDoStartu Method " Url="html/03cde429-3a24-6fe1-ebe0-f717f31e47ca.htm">
+          <HelpTOCNode Title="PowrotDoStartu Method " Url="html/27ca2642-5519-88ea-e2e7-23523f02a358.htm" />
+          <HelpTOCNode Title="PowrotDoStartu Method (Object, EventArgs)" Url="html/7322f978-e344-e69e-1049-825b6140fbc2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PrzejscieDoStartu Method " Url="html/73b7f7b6-1d68-a765-08ca-4ce81c6010e6.htm" />
+        <HelpTOCNode Title="ZbierzKsiazki Method " Url="html/a5e2aba7-160e-b45f-5a75-8fbdc79ff6ca.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b2c09091-687d-490a-9caf-e754c97f2859" Title="Lab5 Properties" Url="html/d264d4e0-7f54-b275-65df-be6ff2021016.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/a114dd0c-3ac6-b824-3809-ae160bdfdf41.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ec5a0db4-dc8d-4ca0-bbf2-dfe6162aa352" Title="MenuGlowne Class" Url="html/dcbce1fb-8b85-94e4-0ffa-d970233acf1f.htm">
+      <HelpTOCNode Title="MenuGlowne Constructor " Url="html/804644be-6355-cced-fc20-d45066825e34.htm" />
+      <HelpTOCNode Id="4f915332-887c-4a3c-8c0a-21ecd47decfc" Title="MenuGlowne Fields" Url="html/05d9b096-9d72-32dd-cac2-8e1bcae6d5ee.htm">
+        <HelpTOCNode Title="KoniecCzasu Field" Url="html/6c0d1c46-2eb1-95d4-cc9b-3fb58f64e537.htm" />
+        <HelpTOCNode Title="Ksiazka Field" Url="html/1029b7aa-372d-5bbc-1e31-592a01afa178.htm" />
+        <HelpTOCNode Title="Sciana Field" Url="html/b59e5af5-ed6b-1311-32de-28a0049524ac.htm" />
+        <HelpTOCNode Title="Wygrana Field" Url="html/22431026-bc4e-1910-b1a4-5f20366d1ca6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bc909f49-bc34-44f9-8cfa-9f6608caf9e8" Title="MenuGlowne Methods" Url="html/046f57f1-34a5-dfa1-2867-e989a2b03ebd.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/c4adfde3-90ad-5c94-68dd-a1fdadef7f3d.htm" />
+        <HelpTOCNode Title="ZmienKursor Method " Url="html/11863310-8bd1-3147-3dfd-b159dd2aeb70.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c5948e36-caf5-49ce-9ba9-d0b7411feca2" Title="Podsumowanie Class" Url="html/86865f80-295f-5861-7fea-ab9e1cee9b3b.htm">
+      <HelpTOCNode Title="Podsumowanie Constructor " Url="html/1db03184-b434-21da-7485-fdeacf0586f8.htm" />
+      <HelpTOCNode Id="88fe9c9a-8271-4338-9ef1-cd9f0bf3bcbe" Title="Podsumowanie Methods" Url="html/524d81b7-c4b5-9b87-8c88-1bcffd87db31.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/feba5be8-ef60-574d-8649-3904232deeab.htm" />
+        <HelpTOCNode Title="Koniec Method " Url="html/a23e88ff-33b4-4d4f-2c0b-d851ec45ba4a.htm" />
+        <HelpTOCNode Title="TekstPods Method " Url="html/7cff2f0f-4fbb-122e-6d09-646508f52e25.htm" />
+        <HelpTOCNode Title="Wynik Method " Url="html/9d7a4b65-eb2a-3666-b321-9618f75e72aa.htm" />
+        <HelpTOCNode Title="Wyniki Method " Url="html/7e3d5b80-30ef-2661-6b26-6cf5b2486dd3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d1d90259-c4cd-416f-ad25-60c3bb55d6cf" Title="Podsumowanie Properties" Url="html/df8f5227-d817-3a43-1436-65f056470c73.htm">
+        <HelpTOCNode Title="Zmiana Property " Url="html/8518e052-0a24-efb1-4a19-2fa1afa197c9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

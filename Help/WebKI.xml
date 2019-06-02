@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Back1 method" Url="html/ee4f8d19-ce2e-acba-c33a-597e9ba04314.htm" />
+  <HelpKINode Title="Back2 method" Url="html/d4500167-998c-de5b-6c58-4d0a35c35fce.htm" />
+  <HelpKINode Title="Back3 method" Url="html/d94a0a55-002b-1798-6a12-7c994bfd2497.htm" />
+  <HelpKINode Title="Back4 method" Url="html/3cc1b5ef-938a-8949-ccea-ea1b7087cbf8.htm" />
+  <HelpKINode Title="Back5 method" Url="html/d0dc7034-e69a-b01e-1c83-202b651aa2d1.htm" />
+  <HelpKINode Title="ciekawostka1 class">
+    <HelpKINode Title="ciekawostka1 Class" Url="html/ce3ae979-4047-18c8-0d43-e216f7f03064.htm" />
+    <HelpKINode Title="about ciekawostka1 class" Url="html/ce3ae979-4047-18c8-0d43-e216f7f03064.htm" />
+    <HelpKINode Title="constructor" Url="html/0b1c5aa9-666f-e2ea-02b4-83e7c91d05b4.htm" />
+    <HelpKINode Title="methods" Url="html/b5faea3a-016d-0bc1-52b3-0194246f8cee.htm" />
+    <HelpKINode Title="properties" Url="html/0ce77aeb-86fd-bcd8-8d44-9221d78f47fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ciekawostka1.Back1 method" Url="html/ee4f8d19-ce2e-acba-c33a-597e9ba04314.htm" />
+  <HelpKINode Title="ciekawostka1.ciekawostka1 constructor" Url="html/0b1c5aa9-666f-e2ea-02b4-83e7c91d05b4.htm" />
+  <HelpKINode Title="ciekawostka1.Dispose method" Url="html/eba8a25b-cb3c-f1a4-66bc-3c7b39ab5315.htm" />
+  <HelpKINode Title="ciekawostka1.Next1 method" Url="html/92f80601-6f57-69c4-0a0b-022bb2e28497.htm" />
+  <HelpKINode Title="ciekawostka1.WyswietlanieCiekawostki method" Url="html/343954ca-3d85-f1b5-26dc-55105c7693a3.htm" />
+  <HelpKINode Title="ciekawostka1.Zmiana property" Url="html/a4d4761f-1bbb-0f6e-6f02-a6269758d156.htm" />
+  <HelpKINode Title="ciekawostka2 class">
+    <HelpKINode Title="ciekawostka2 Class" Url="html/57c75b51-1689-15b8-cda9-cbe863b14e25.htm" />
+    <HelpKINode Title="about ciekawostka2 class" Url="html/57c75b51-1689-15b8-cda9-cbe863b14e25.htm" />
+    <HelpKINode Title="constructor" Url="html/2d9db519-20e2-dd3b-1eca-59394e2a7419.htm" />
+    <HelpKINode Title="methods" Url="html/9d654a49-6ecf-6984-9a53-407687ada51f.htm" />
+    <HelpKINode Title="properties" Url="html/1c323cfa-a845-4970-6b46-942699638b35.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ciekawostka2.Back2 method" Url="html/d4500167-998c-de5b-6c58-4d0a35c35fce.htm" />
+  <HelpKINode Title="ciekawostka2.ciekawostka2 constructor" Url="html/2d9db519-20e2-dd3b-1eca-59394e2a7419.htm" />
+  <HelpKINode Title="ciekawostka2.Dispose method" Url="html/96ff7761-3cd7-2878-6f43-0178dd15277c.htm" />
+  <HelpKINode Title="ciekawostka2.Next2 method" Url="html/e2e491b5-37fe-482e-94be-5d7520283f4a.htm" />
+  <HelpKINode Title="ciekawostka2.WyswietlanieCiekawostki method" Url="html/560064fb-125a-b7c9-893f-480a03888f98.htm" />
+  <HelpKINode Title="ciekawostka2.Zmiana property" Url="html/3a557b4c-9c40-56c8-db86-fd6681ac80f7.htm" />
+  <HelpKINode Title="ciekawostka3 class">
+    <HelpKINode Title="ciekawostka3 Class" Url="html/cc4ad1dc-8784-12a6-4ad9-114fd24348fb.htm" />
+    <HelpKINode Title="about ciekawostka3 class" Url="html/cc4ad1dc-8784-12a6-4ad9-114fd24348fb.htm" />
+    <HelpKINode Title="constructor" Url="html/4e5df7da-b4e2-9944-6bea-ebb2c663f98a.htm" />
+    <HelpKINode Title="methods" Url="html/95fadc98-0bd1-ee59-133a-c9c0a35b526e.htm" />
+    <HelpKINode Title="properties" Url="html/9dc36e1d-48fa-654e-ffbe-e440aa4c551c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ciekawostka3.Back3 method" Url="html/d94a0a55-002b-1798-6a12-7c994bfd2497.htm" />
+  <HelpKINode Title="ciekawostka3.ciekawostka3 constructor" Url="html/4e5df7da-b4e2-9944-6bea-ebb2c663f98a.htm" />
+  <HelpKINode Title="ciekawostka3.Dispose method" Url="html/546f8ca7-f080-2b5a-9d58-d4e9292abdbc.htm" />
+  <HelpKINode Title="ciekawostka3.Next3 method" Url="html/ce6c1fa3-da56-bd56-5b4f-ca71c327a5f6.htm" />
+  <HelpKINode Title="ciekawostka3.WyswietlanieCiekawostki method" Url="html/ecf9464e-13eb-9809-5286-b2f7768dfecc.htm" />
+  <HelpKINode Title="ciekawostka3.Zmiana property" Url="html/55dc172a-8240-010e-4768-d54ab587b540.htm" />
+  <HelpKINode Title="ciekawostka4 class">
+    <HelpKINode Title="ciekawostka4 Class" Url="html/890948bb-ee25-f611-75a0-514a1a3fcf04.htm" />
+    <HelpKINode Title="about ciekawostka4 class" Url="html/890948bb-ee25-f611-75a0-514a1a3fcf04.htm" />
+    <HelpKINode Title="constructor" Url="html/efdd9a4d-0d0f-9f1e-81dd-35e69ef6fa1c.htm" />
+    <HelpKINode Title="methods" Url="html/b982f382-37a1-d84c-c178-ca1f8d0147d5.htm" />
+    <HelpKINode Title="properties" Url="html/4f50f3bb-82c5-88a5-4c6b-b53a36a86129.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ciekawostka4.Back4 method" Url="html/3cc1b5ef-938a-8949-ccea-ea1b7087cbf8.htm" />
+  <HelpKINode Title="ciekawostka4.ciekawostka4 constructor" Url="html/efdd9a4d-0d0f-9f1e-81dd-35e69ef6fa1c.htm" />
+  <HelpKINode Title="ciekawostka4.Dispose method" Url="html/17a834a4-ca85-1ca1-b936-7937beee20a8.htm" />
+  <HelpKINode Title="ciekawostka4.Next4 method" Url="html/cad6744d-1a53-ff13-a6fc-eea20b238dd9.htm" />
+  <HelpKINode Title="ciekawostka4.WyswietlanieCiekawostki method" Url="html/418c60f4-a0c5-3606-5dee-f2fdfd1c5220.htm" />
+  <HelpKINode Title="ciekawostka4.Zmiana property" Url="html/d3d503af-060b-3be8-0dc4-dab79f5bd8a9.htm" />
+  <HelpKINode Title="ciekawostka5 class">
+    <HelpKINode Title="ciekawostka5 Class" Url="html/e2b358f8-82eb-a978-e34e-8b2cfab9fab2.htm" />
+    <HelpKINode Title="about ciekawostka5 class" Url="html/e2b358f8-82eb-a978-e34e-8b2cfab9fab2.htm" />
+    <HelpKINode Title="constructor" Url="html/62b35dab-73e9-6507-608a-865ed2d669ce.htm" />
+    <HelpKINode Title="methods" Url="html/c9af486d-c057-27e4-955c-360e427c7e26.htm" />
+    <HelpKINode Title="properties" Url="html/3fe3c663-9498-87d0-e1c6-2710a4b80909.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ciekawostka5.Back5 method" Url="html/d0dc7034-e69a-b01e-1c83-202b651aa2d1.htm" />
+  <HelpKINode Title="ciekawostka5.ciekawostka5 constructor" Url="html/62b35dab-73e9-6507-608a-865ed2d669ce.htm" />
+  <HelpKINode Title="ciekawostka5.Dispose method" Url="html/65e14da4-5e0c-9821-e863-d642120ea168.htm" />
+  <HelpKINode Title="ciekawostka5.Suma method" Url="html/c507bb21-8e1c-cc11-ef6a-8edccb74fb98.htm" />
+  <HelpKINode Title="ciekawostka5.WyswietlanieCiekawostki method" Url="html/613d54be-a45e-0181-6699-419040a2af7a.htm" />
+  <HelpKINode Title="ciekawostka5.Zmiana property" Url="html/9849e356-7b51-4a90-ebae-0d16d20f7848.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="ciekawostka1.Dispose Method " Url="html/eba8a25b-cb3c-f1a4-66bc-3c7b39ab5315.htm" />
+    <HelpKINode Title="ciekawostka2.Dispose Method " Url="html/96ff7761-3cd7-2878-6f43-0178dd15277c.htm" />
+    <HelpKINode Title="ciekawostka3.Dispose Method " Url="html/546f8ca7-f080-2b5a-9d58-d4e9292abdbc.htm" />
+    <HelpKINode Title="ciekawostka4.Dispose Method " Url="html/17a834a4-ca85-1ca1-b936-7937beee20a8.htm" />
+    <HelpKINode Title="ciekawostka5.Dispose Method " Url="html/65e14da4-5e0c-9821-e863-d642120ea168.htm" />
+    <HelpKINode Title="Instrukcja.Dispose Method " Url="html/526bc033-accf-a1e7-2067-03c3a8d04d8c.htm" />
+    <HelpKINode Title="Lab1.Dispose Method " Url="html/da605690-53a1-fa70-4873-d3fe095e70c4.htm" />
+    <HelpKINode Title="Lab2.Dispose Method " Url="html/01a3eaac-e668-e30f-ffd7-c863bb7f8a85.htm" />
+    <HelpKINode Title="Lab3.Dispose Method " Url="html/732a7145-1eb5-a300-66e6-35b63ed03164.htm" />
+    <HelpKINode Title="Lab4.Dispose Method " Url="html/e8345332-5559-6652-bfa1-bdfd9611f84b.htm" />
+    <HelpKINode Title="Lab5.Dispose Method " Url="html/9d2eee0b-5d82-88fe-4185-6261a98460ae.htm" />
+    <HelpKINode Title="MenuGlowne.Dispose Method " Url="html/c4adfde3-90ad-5c94-68dd-a1fdadef7f3d.htm" />
+    <HelpKINode Title="Podsumowanie.Dispose Method " Url="html/feba5be8-ef60-574d-8649-3904232deeab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Instrukcja class">
+    <HelpKINode Title="Instrukcja Class" Url="html/b8c2caaf-e172-2e29-98c6-f5d808b08273.htm" />
+    <HelpKINode Title="about Instrukcja class" Url="html/b8c2caaf-e172-2e29-98c6-f5d808b08273.htm" />
+    <HelpKINode Title="constructor" Url="html/c8348e28-9e2e-cc6e-f575-96eb86de058b.htm" />
+    <HelpKINode Title="methods" Url="html/77abe4b4-1d90-fdd9-1e49-363afdd84fdc.htm" />
+    <HelpKINode Title="properties" Url="html/98888e35-4d65-6c14-6874-81dcbdd01ec7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Instrukcja.Dispose method" Url="html/526bc033-accf-a1e7-2067-03c3a8d04d8c.htm" />
+  <HelpKINode Title="Instrukcja.Instrukcja constructor" Url="html/c8348e28-9e2e-cc6e-f575-96eb86de058b.htm" />
+  <HelpKINode Title="Instrukcja.Zmiana property" Url="html/373e9b1c-5eb1-4756-cf98-7a33a85d4e5c.htm" />
+  <HelpKINode Title="Koniec method" Url="html/a23e88ff-33b4-4d4f-2c0b-d851ec45ba4a.htm" />
+  <HelpKINode Title="KoniecCzasu field" Url="html/6c0d1c46-2eb1-95d4-cc9b-3fb58f64e537.htm" />
+  <HelpKINode Title="Ksiazka field" Url="html/1029b7aa-372d-5bbc-1e31-592a01afa178.htm" />
+  <HelpKINode Title="Ksiazki1 field" Url="html/cfe49f9a-209e-2db4-d7f1-cbceaea09029.htm" />
+  <HelpKINode Title="Ksiazki2 field" Url="html/435138c5-fb39-a7e0-a7c6-1bba1cf9bb5b.htm" />
+  <HelpKINode Title="Ksiazki3 field" Url="html/e4f9193b-f94f-6285-db19-2e2ac404a1a4.htm" />
+  <HelpKINode Title="Ksiazki4 field" Url="html/11b7c25c-342c-4029-d67e-08fc663aac9b.htm" />
+  <HelpKINode Title="Ksiazki5 field" Url="html/74093bac-1490-888c-8bc9-0f15648b159c.htm" />
+  <HelpKINode Title="Lab1 class">
+    <HelpKINode Title="Lab1 Class" Url="html/3c34632e-e492-aa50-a44b-2d6200c8e54b.htm" />
+    <HelpKINode Title="about Lab1 class" Url="html/3c34632e-e492-aa50-a44b-2d6200c8e54b.htm" />
+    <HelpKINode Title="constructor" Url="html/748d36a4-9c0d-f4b4-30ba-3f5d7dc11398.htm" />
+    <HelpKINode Title="fields" Url="html/941ef3c6-121c-62f1-8aef-347067c73035.htm" />
+    <HelpKINode Title="methods" Url="html/e53afbcc-6a2d-6f4d-afa0-a8740aa9160d.htm" />
+    <HelpKINode Title="properties" Url="html/b4aa22a8-f9a6-9978-0e93-3e49d975676e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Lab1.Dispose method" Url="html/da605690-53a1-fa70-4873-d3fe095e70c4.htm" />
+  <HelpKINode Title="Lab1.Ksiazki1 field" Url="html/cfe49f9a-209e-2db4-d7f1-cbceaea09029.htm" />
+  <HelpKINode Title="Lab1.Lab1 constructor" Url="html/748d36a4-9c0d-f4b4-30ba-3f5d7dc11398.htm" />
+  <HelpKINode Title="Lab1.PowrotDoStartu method" Url="html/be6e5a7c-798b-31eb-4734-e2994bf92724.htm" />
+  <HelpKINode Title="Lab1.PrzejscieDoStartu method" Url="html/af79d9c9-91df-ceb4-3aaa-635700156069.htm" />
+  <HelpKINode Title="Lab1.WynikPoz1 field" Url="html/b311293d-d82f-0e4e-c052-ef359535989e.htm" />
+  <HelpKINode Title="Lab1.ZbierzKsiazki method" Url="html/fefe6657-1f22-ac39-550e-dfcb2550d322.htm" />
+  <HelpKINode Title="Lab1.Zmiana property" Url="html/1b3bb302-a66d-8329-291d-dbc87b09a418.htm" />
+  <HelpKINode Title="Lab2 class">
+    <HelpKINode Title="Lab2 Class" Url="html/131f39db-f9fd-a30b-ee8c-cef9d2a189f1.htm" />
+    <HelpKINode Title="about Lab2 class" Url="html/131f39db-f9fd-a30b-ee8c-cef9d2a189f1.htm" />
+    <HelpKINode Title="constructor" Url="html/aac9b587-db17-67bc-a726-b3458b277c1b.htm" />
+    <HelpKINode Title="fields" Url="html/d06d53f1-232a-0d5d-21c2-954dc9548926.htm" />
+    <HelpKINode Title="methods" Url="html/22460695-896e-ad59-6b7d-65a4052dcccf.htm" />
+    <HelpKINode Title="properties" Url="html/e106a3a3-b288-5e22-4b82-1b858ec047bb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Lab2.Dispose method" Url="html/01a3eaac-e668-e30f-ffd7-c863bb7f8a85.htm" />
+  <HelpKINode Title="Lab2.Ksiazki2 field" Url="html/435138c5-fb39-a7e0-a7c6-1bba1cf9bb5b.htm" />
+  <HelpKINode Title="Lab2.Lab2 constructor" Url="html/aac9b587-db17-67bc-a726-b3458b277c1b.htm" />
+  <HelpKINode Title="Lab2.PowrotDoStartu method" Url="html/106fe577-dd4e-6b16-a1ab-106303609170.htm" />
+  <HelpKINode Title="Lab2.PrzejscieDoStartu method" Url="html/e80cf9d9-7be5-b4e5-800e-8cb7f54145d4.htm" />
+  <HelpKINode Title="Lab2.WynikPoz2 field" Url="html/c84cc0c7-d790-4695-2c82-55231d55beb1.htm" />
+  <HelpKINode Title="Lab2.ZbierzKsiazki method" Url="html/4244cb7e-3b3a-f5b0-e850-13fb153eb5ab.htm" />
+  <HelpKINode Title="Lab2.Zmiana property" Url="html/c15a85f0-8a82-d532-0712-e4e2f1204e02.htm" />
+  <HelpKINode Title="Lab3 class">
+    <HelpKINode Title="Lab3 Class" Url="html/23f58b00-7cb4-aa1c-6660-d6c461583b75.htm" />
+    <HelpKINode Title="about Lab3 class" Url="html/23f58b00-7cb4-aa1c-6660-d6c461583b75.htm" />
+    <HelpKINode Title="constructor" Url="html/798f7e5a-4e82-ad0a-51aa-c256c169131e.htm" />
+    <HelpKINode Title="fields" Url="html/a05225d8-960b-c276-c329-fe9c5a2b040f.htm" />
+    <HelpKINode Title="methods" Url="html/8493b0db-9f41-20bb-fc85-cca23f418e22.htm" />
+    <HelpKINode Title="properties" Url="html/b01523b3-31cb-d82b-7f20-8000e5b6e3e7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Lab3.Dispose method" Url="html/732a7145-1eb5-a300-66e6-35b63ed03164.htm" />
+  <HelpKINode Title="Lab3.Ksiazki3 field" Url="html/e4f9193b-f94f-6285-db19-2e2ac404a1a4.htm" />
+  <HelpKINode Title="Lab3.Lab3 constructor" Url="html/798f7e5a-4e82-ad0a-51aa-c256c169131e.htm" />
+  <HelpKINode Title="Lab3.PowrotDoStartu method" Url="html/bfd7c5e1-10ac-8ff7-7f80-3eac73c9dc3d.htm" />
+  <HelpKINode Title="Lab3.PrzejscieDoStartu method" Url="html/65a80b04-ab30-8488-cba6-d77f9ef83ccc.htm" />
+  <HelpKINode Title="Lab3.WynikPoz3 field" Url="html/ea09e786-c5db-d569-4f93-744df4693ebb.htm" />
+  <HelpKINode Title="Lab3.ZbierzKsiazki method" Url="html/a5ac110e-a1cf-7820-a84d-b5f558ac810b.htm" />
+  <HelpKINode Title="Lab3.Zmiana property" Url="html/eb1005e1-1fdf-df53-2b72-3602a39d5889.htm" />
+  <HelpKINode Title="Lab4 class">
+    <HelpKINode Title="Lab4 Class" Url="html/73871d0f-cf33-dc15-e25c-cdc965bc2a5f.htm" />
+    <HelpKINode Title="about Lab4 class" Url="html/73871d0f-cf33-dc15-e25c-cdc965bc2a5f.htm" />
+    <HelpKINode Title="constructor" Url="html/3a3ccda1-9eeb-daae-0f31-8b51a4caf2e0.htm" />
+    <HelpKINode Title="fields" Url="html/2d5b10b6-0f22-a272-2853-8636569656e6.htm" />
+    <HelpKINode Title="methods" Url="html/204037d4-1d5b-94c1-d38f-5722e4535b0f.htm" />
+    <HelpKINode Title="properties" Url="html/96275b87-82e4-056e-7b00-8b162505a459.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Lab4.Dispose method" Url="html/e8345332-5559-6652-bfa1-bdfd9611f84b.htm" />
+  <HelpKINode Title="Lab4.Ksiazki4 field" Url="html/11b7c25c-342c-4029-d67e-08fc663aac9b.htm" />
+  <HelpKINode Title="Lab4.Lab4 constructor" Url="html/3a3ccda1-9eeb-daae-0f31-8b51a4caf2e0.htm" />
+  <HelpKINode Title="Lab4.PowrotDoStartu method" Url="html/45db695b-3c86-4b9d-8ec1-08d30b6af6ff.htm" />
+  <HelpKINode Title="Lab4.PrzejscieDoStartu method" Url="html/8a1c6440-68fc-d5bc-9715-e85f4afad8e8.htm" />
+  <HelpKINode Title="Lab4.WynikPoz4 field" Url="html/3feb898f-c3b2-8062-147a-92489ba7491e.htm" />
+  <HelpKINode Title="Lab4.ZbierzKsiazki method" Url="html/25bf6852-92db-beb1-0998-e63ca0de0221.htm" />
+  <HelpKINode Title="Lab4.Zmiana property" Url="html/e5a6e035-31f0-bc7f-637b-68cf39f0591d.htm" />
+  <HelpKINode Title="Lab5 class">
+    <HelpKINode Title="Lab5 Class" Url="html/214c3378-1cbc-5cb6-8f98-d9a5d466c754.htm" />
+    <HelpKINode Title="about Lab5 class" Url="html/214c3378-1cbc-5cb6-8f98-d9a5d466c754.htm" />
+    <HelpKINode Title="constructor" Url="html/2981b566-f73f-d6c2-95a0-8d6c9d672f28.htm" />
+    <HelpKINode Title="fields" Url="html/d4b6c77e-0d22-ced8-380d-ac31acb43add.htm" />
+    <HelpKINode Title="methods" Url="html/877af553-e31d-bc9c-ff2d-6e1db06562a5.htm" />
+    <HelpKINode Title="properties" Url="html/d264d4e0-7f54-b275-65df-be6ff2021016.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Lab5.Dispose method" Url="html/9d2eee0b-5d82-88fe-4185-6261a98460ae.htm" />
+  <HelpKINode Title="Lab5.Ksiazki5 field" Url="html/74093bac-1490-888c-8bc9-0f15648b159c.htm" />
+  <HelpKINode Title="Lab5.Lab5 constructor" Url="html/2981b566-f73f-d6c2-95a0-8d6c9d672f28.htm" />
+  <HelpKINode Title="Lab5.PowrotDoStartu method" Url="html/03cde429-3a24-6fe1-ebe0-f717f31e47ca.htm" />
+  <HelpKINode Title="Lab5.PrzejscieDoStartu method" Url="html/73b7f7b6-1d68-a765-08ca-4ce81c6010e6.htm" />
+  <HelpKINode Title="Lab5.WynikPoz5 field" Url="html/a5b74a41-907b-30b2-9fab-6adf0b9fe480.htm" />
+  <HelpKINode Title="Lab5.ZbierzKsiazki method" Url="html/a5e2aba7-160e-b45f-5a75-8fbdc79ff6ca.htm" />
+  <HelpKINode Title="Lab5.Zmiana property" Url="html/a114dd0c-3ac6-b824-3809-ae160bdfdf41.htm" />
+  <HelpKINode Title="LabiryntWiedzy namespace" Url="html/e97df49b-9229-c6d8-2c1c-35cad56f1871.htm" />
+  <HelpKINode Title="LabiryntWiedzy.ciekawostka1 class" Url="html/ce3ae979-4047-18c8-0d43-e216f7f03064.htm" />
+  <HelpKINode Title="LabiryntWiedzy.ciekawostka2 class" Url="html/57c75b51-1689-15b8-cda9-cbe863b14e25.htm" />
+  <HelpKINode Title="LabiryntWiedzy.ciekawostka3 class" Url="html/cc4ad1dc-8784-12a6-4ad9-114fd24348fb.htm" />
+  <HelpKINode Title="LabiryntWiedzy.ciekawostka4 class" Url="html/890948bb-ee25-f611-75a0-514a1a3fcf04.htm" />
+  <HelpKINode Title="LabiryntWiedzy.ciekawostka5 class" Url="html/e2b358f8-82eb-a978-e34e-8b2cfab9fab2.htm" />
+  <HelpKINode Title="LabiryntWiedzy.Instrukcja class" Url="html/b8c2caaf-e172-2e29-98c6-f5d808b08273.htm" />
+  <HelpKINode Title="LabiryntWiedzy.Lab1 class" Url="html/3c34632e-e492-aa50-a44b-2d6200c8e54b.htm" />
+  <HelpKINode Title="LabiryntWiedzy.Lab2 class" Url="html/131f39db-f9fd-a30b-ee8c-cef9d2a189f1.htm" />
+  <HelpKINode Title="LabiryntWiedzy.Lab3 class" Url="html/23f58b00-7cb4-aa1c-6660-d6c461583b75.htm" />
+  <HelpKINode Title="LabiryntWiedzy.Lab4 class" Url="html/73871d0f-cf33-dc15-e25c-cdc965bc2a5f.htm" />
+  <HelpKINode Title="LabiryntWiedzy.Lab5 class" Url="html/214c3378-1cbc-5cb6-8f98-d9a5d466c754.htm" />
+  <HelpKINode Title="LabiryntWiedzy.MenuGlowne class" Url="html/dcbce1fb-8b85-94e4-0ffa-d970233acf1f.htm" />
+  <HelpKINode Title="LabiryntWiedzy.Podsumowanie class" Url="html/86865f80-295f-5861-7fea-ab9e1cee9b3b.htm" />
+  <HelpKINode Title="MenuGlowne class">
+    <HelpKINode Title="MenuGlowne Class" Url="html/dcbce1fb-8b85-94e4-0ffa-d970233acf1f.htm" />
+    <HelpKINode Title="about MenuGlowne class" Url="html/dcbce1fb-8b85-94e4-0ffa-d970233acf1f.htm" />
+    <HelpKINode Title="constructor" Url="html/804644be-6355-cced-fc20-d45066825e34.htm" />
+    <HelpKINode Title="fields" Url="html/05d9b096-9d72-32dd-cac2-8e1bcae6d5ee.htm" />
+    <HelpKINode Title="methods" Url="html/046f57f1-34a5-dfa1-2867-e989a2b03ebd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MenuGlowne.Dispose method" Url="html/c4adfde3-90ad-5c94-68dd-a1fdadef7f3d.htm" />
+  <HelpKINode Title="MenuGlowne.KoniecCzasu field" Url="html/6c0d1c46-2eb1-95d4-cc9b-3fb58f64e537.htm" />
+  <HelpKINode Title="MenuGlowne.Ksiazka field" Url="html/1029b7aa-372d-5bbc-1e31-592a01afa178.htm" />
+  <HelpKINode Title="MenuGlowne.MenuGlowne constructor" Url="html/804644be-6355-cced-fc20-d45066825e34.htm" />
+  <HelpKINode Title="MenuGlowne.Sciana field" Url="html/b59e5af5-ed6b-1311-32de-28a0049524ac.htm" />
+  <HelpKINode Title="MenuGlowne.Wygrana field" Url="html/22431026-bc4e-1910-b1a4-5f20366d1ca6.htm" />
+  <HelpKINode Title="MenuGlowne.ZmienKursor method" Url="html/11863310-8bd1-3147-3dfd-b159dd2aeb70.htm" />
+  <HelpKINode Title="Next1 method" Url="html/92f80601-6f57-69c4-0a0b-022bb2e28497.htm" />
+  <HelpKINode Title="Next2 method" Url="html/e2e491b5-37fe-482e-94be-5d7520283f4a.htm" />
+  <HelpKINode Title="Next3 method" Url="html/ce6c1fa3-da56-bd56-5b4f-ca71c327a5f6.htm" />
+  <HelpKINode Title="Next4 method" Url="html/cad6744d-1a53-ff13-a6fc-eea20b238dd9.htm" />
+  <HelpKINode Title="Podsumowanie class">
+    <HelpKINode Title="Podsumowanie Class" Url="html/86865f80-295f-5861-7fea-ab9e1cee9b3b.htm" />
+    <HelpKINode Title="about Podsumowanie class" Url="html/86865f80-295f-5861-7fea-ab9e1cee9b3b.htm" />
+    <HelpKINode Title="constructor" Url="html/1db03184-b434-21da-7485-fdeacf0586f8.htm" />
+    <HelpKINode Title="methods" Url="html/524d81b7-c4b5-9b87-8c88-1bcffd87db31.htm" />
+    <HelpKINode Title="properties" Url="html/df8f5227-d817-3a43-1436-65f056470c73.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Podsumowanie.Dispose method" Url="html/feba5be8-ef60-574d-8649-3904232deeab.htm" />
+  <HelpKINode Title="Podsumowanie.Koniec method" Url="html/a23e88ff-33b4-4d4f-2c0b-d851ec45ba4a.htm" />
+  <HelpKINode Title="Podsumowanie.Podsumowanie constructor" Url="html/1db03184-b434-21da-7485-fdeacf0586f8.htm" />
+  <HelpKINode Title="Podsumowanie.TekstPods method" Url="html/7cff2f0f-4fbb-122e-6d09-646508f52e25.htm" />
+  <HelpKINode Title="Podsumowanie.Wynik method" Url="html/9d7a4b65-eb2a-3666-b321-9618f75e72aa.htm" />
+  <HelpKINode Title="Podsumowanie.Wyniki method" Url="html/7e3d5b80-30ef-2661-6b26-6cf5b2486dd3.htm" />
+  <HelpKINode Title="Podsumowanie.Zmiana property" Url="html/8518e052-0a24-efb1-4a19-2fa1afa197c9.htm" />
+  <HelpKINode Title="PowrotDoStartu method">
+    <HelpKINode Title="Lab1.PowrotDoStartu Method " Url="html/be6e5a7c-798b-31eb-4734-e2994bf92724.htm" />
+    <HelpKINode Title="Lab2.PowrotDoStartu Method " Url="html/106fe577-dd4e-6b16-a1ab-106303609170.htm" />
+    <HelpKINode Title="Lab3.PowrotDoStartu Method " Url="html/bfd7c5e1-10ac-8ff7-7f80-3eac73c9dc3d.htm" />
+    <HelpKINode Title="Lab4.PowrotDoStartu Method " Url="html/45db695b-3c86-4b9d-8ec1-08d30b6af6ff.htm" />
+    <HelpKINode Title="Lab5.PowrotDoStartu Method " Url="html/03cde429-3a24-6fe1-ebe0-f717f31e47ca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PrzejscieDoStartu method">
+    <HelpKINode Title="Lab1.PrzejscieDoStartu Method " Url="html/af79d9c9-91df-ceb4-3aaa-635700156069.htm" />
+    <HelpKINode Title="Lab2.PrzejscieDoStartu Method " Url="html/e80cf9d9-7be5-b4e5-800e-8cb7f54145d4.htm" />
+    <HelpKINode Title="Lab3.PrzejscieDoStartu Method " Url="html/65a80b04-ab30-8488-cba6-d77f9ef83ccc.htm" />
+    <HelpKINode Title="Lab4.PrzejscieDoStartu Method " Url="html/8a1c6440-68fc-d5bc-9715-e85f4afad8e8.htm" />
+    <HelpKINode Title="Lab5.PrzejscieDoStartu Method " Url="html/73b7f7b6-1d68-a765-08ca-4ce81c6010e6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Sciana field" Url="html/b59e5af5-ed6b-1311-32de-28a0049524ac.htm" />
+  <HelpKINode Title="Suma method" Url="html/c507bb21-8e1c-cc11-ef6a-8edccb74fb98.htm" />
+  <HelpKINode Title="TekstPods method" Url="html/7cff2f0f-4fbb-122e-6d09-646508f52e25.htm" />
+  <HelpKINode Title="Wygrana field" Url="html/22431026-bc4e-1910-b1a4-5f20366d1ca6.htm" />
+  <HelpKINode Title="Wynik method" Url="html/9d7a4b65-eb2a-3666-b321-9618f75e72aa.htm" />
+  <HelpKINode Title="Wyniki method" Url="html/7e3d5b80-30ef-2661-6b26-6cf5b2486dd3.htm" />
+  <HelpKINode Title="WynikPoz1 field" Url="html/b311293d-d82f-0e4e-c052-ef359535989e.htm" />
+  <HelpKINode Title="WynikPoz2 field" Url="html/c84cc0c7-d790-4695-2c82-55231d55beb1.htm" />
+  <HelpKINode Title="WynikPoz3 field" Url="html/ea09e786-c5db-d569-4f93-744df4693ebb.htm" />
+  <HelpKINode Title="WynikPoz4 field" Url="html/3feb898f-c3b2-8062-147a-92489ba7491e.htm" />
+  <HelpKINode Title="WynikPoz5 field" Url="html/a5b74a41-907b-30b2-9fab-6adf0b9fe480.htm" />
+  <HelpKINode Title="WyswietlanieCiekawostki method">
+    <HelpKINode Title="ciekawostka1.WyswietlanieCiekawostki Method " Url="html/343954ca-3d85-f1b5-26dc-55105c7693a3.htm" />
+    <HelpKINode Title="ciekawostka2.WyswietlanieCiekawostki Method " Url="html/560064fb-125a-b7c9-893f-480a03888f98.htm" />
+    <HelpKINode Title="ciekawostka3.WyswietlanieCiekawostki Method " Url="html/ecf9464e-13eb-9809-5286-b2f7768dfecc.htm" />
+    <HelpKINode Title="ciekawostka4.WyswietlanieCiekawostki Method " Url="html/418c60f4-a0c5-3606-5dee-f2fdfd1c5220.htm" />
+    <HelpKINode Title="ciekawostka5.WyswietlanieCiekawostki Method " Url="html/613d54be-a45e-0181-6699-419040a2af7a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZbierzKsiazki method">
+    <HelpKINode Title="Lab1.ZbierzKsiazki Method " Url="html/fefe6657-1f22-ac39-550e-dfcb2550d322.htm" />
+    <HelpKINode Title="Lab2.ZbierzKsiazki Method " Url="html/4244cb7e-3b3a-f5b0-e850-13fb153eb5ab.htm" />
+    <HelpKINode Title="Lab3.ZbierzKsiazki Method " Url="html/a5ac110e-a1cf-7820-a84d-b5f558ac810b.htm" />
+    <HelpKINode Title="Lab4.ZbierzKsiazki Method " Url="html/25bf6852-92db-beb1-0998-e63ca0de0221.htm" />
+    <HelpKINode Title="Lab5.ZbierzKsiazki Method " Url="html/a5e2aba7-160e-b45f-5a75-8fbdc79ff6ca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Zmiana property">
+    <HelpKINode Title="ciekawostka1.Zmiana Property " Url="html/a4d4761f-1bbb-0f6e-6f02-a6269758d156.htm" />
+    <HelpKINode Title="ciekawostka2.Zmiana Property " Url="html/3a557b4c-9c40-56c8-db86-fd6681ac80f7.htm" />
+    <HelpKINode Title="ciekawostka3.Zmiana Property " Url="html/55dc172a-8240-010e-4768-d54ab587b540.htm" />
+    <HelpKINode Title="ciekawostka4.Zmiana Property " Url="html/d3d503af-060b-3be8-0dc4-dab79f5bd8a9.htm" />
+    <HelpKINode Title="ciekawostka5.Zmiana Property " Url="html/9849e356-7b51-4a90-ebae-0d16d20f7848.htm" />
+    <HelpKINode Title="Instrukcja.Zmiana Property " Url="html/373e9b1c-5eb1-4756-cf98-7a33a85d4e5c.htm" />
+    <HelpKINode Title="Lab1.Zmiana Property " Url="html/1b3bb302-a66d-8329-291d-dbc87b09a418.htm" />
+    <HelpKINode Title="Lab2.Zmiana Property " Url="html/c15a85f0-8a82-d532-0712-e4e2f1204e02.htm" />
+    <HelpKINode Title="Lab3.Zmiana Property " Url="html/eb1005e1-1fdf-df53-2b72-3602a39d5889.htm" />
+    <HelpKINode Title="Lab4.Zmiana Property " Url="html/e5a6e035-31f0-bc7f-637b-68cf39f0591d.htm" />
+    <HelpKINode Title="Lab5.Zmiana Property " Url="html/a114dd0c-3ac6-b824-3809-ae160bdfdf41.htm" />
+    <HelpKINode Title="Podsumowanie.Zmiana Property " Url="html/8518e052-0a24-efb1-4a19-2fa1afa197c9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZmienKursor method" Url="html/11863310-8bd1-3147-3dfd-b159dd2aeb70.htm" />
+</HelpKI>
